@@ -1,7 +1,7 @@
-#linux
+# linux
 ***
 
-##Summurizing some notes about a terminal.
+## Summurizing some notes about a terminal.
 
 - the first thind you do after opening the terminal is typing a command. it might be agood idea to start the first one with -1 to inhance the 
 behavior of the terminal.
@@ -15,7 +15,7 @@ behavior of the terminal.
 
 - alot of shortcuts is present to avoid typo.
 
-##For basic navigation
+## For basic navigation
 
 - **pwd** is there to tell you where you are.
 
@@ -23,14 +23,14 @@ behavior of the terminal.
 
 - **ls** can have more options, can be written in [].
 
-##PATHS
+## PATHS
 
 - absolute: related to the current file.
 
 - relative: related to root file.
 
 
-##MORE
+## MORE
 
 - **ls-a** is to show all content including hidden once.
 
