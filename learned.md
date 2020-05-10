@@ -1,5 +1,5 @@
 *5/10/2020*
-<dr/>
+#
 good evening friend!
 Today's class was tence, we learnt a shortcut to design a webpage that can onely take **2mi**! :+1:
 its called *github* and it uses markdown. we did learn alot of things we can do to edit themes like
