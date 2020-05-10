@@ -35,8 +35,8 @@ behavior of the terminal.
 - **ls-a** is to show all content including hidden once.
 
 - **file**  is to obtain info about the directory.
-
->Notes
 #
->an ordenary text editor is direct you see what you type but for coding-spesific text edetor you use commands and the end resolt is defferent and for IDE (Integrated Development Environment)it is composed of set of tools which makes it quite easier to write Programs.
+>Notes
+
+>>an ordenary text editor is direct you see what you type but for coding-spesific text edetor you use commands and the end resolt is defferent and for IDE (Integrated Development Environment)it is composed of set of tools which makes it quite easier to write Programs.
 
