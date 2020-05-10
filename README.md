@@ -1,16 +1,18 @@
 ## Growth Mindset
- A growth mindset is the way how a ***succesfull*** mind work. :emojicode
+ A growth mindset is the way how a ***succesfull*** mind work. 
+ [image](https://th.bing.com/th/id/OIP.5nUTdX38jMN_sZhbHhwRDgHaHa?pid=Api&rs=1)
 
-### Markdown
-there are some featchers of a growth mindset like:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Growth mindset doesnt 
-- List
+#there are some qualities that define a growth mindset like:
+ - a growth mindset doesnt avoid challenges, it embraces them because they are the key to learning.
+ - a growth mindset doesntloses focus facing obstacles, it persist to defeat them.
+ - a growth mindset apretiat effort.
+ - a growth mindset learn from chritism.
+ - a growth mindset is inspired by others.
+ 
+ 
+#some notes:
+- always remmember everyone is learning something new.
+- ...yet! is a poweful word.
+- mistack is not the end of the path.
 
