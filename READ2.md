@@ -39,4 +39,3 @@ behavior of the terminal.
 >Notes
 
 >>an ordenary text editor is direct you see what you type but for coding-spesific text edetor you use commands and the end resolt is defferent and for IDE (Integrated Development Environment)it is composed of set of tools which makes it quite easier to write Programs.
-
