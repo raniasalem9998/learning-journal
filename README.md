@@ -1,6 +1,6 @@
 ## Growth Mindset
  A growth mindset is the way how a ***succesfull*** mind work. 
- [image](https://th.bing.com/th/id/OIP.5nUTdX38jMN_sZhbHhwRDgHaHa?pid=Api&rs=1)
+ ![image](https://th.bing.com/th/id/OIP.5nUTdX38jMN_sZhbHhwRDgHaHa?pid=Api&rs=1)
 
 
 #there are some qualities that define a growth mindset like:
@@ -15,4 +15,7 @@
 - always remmember everyone is learning something new.
 - ...yet! is a poweful word.
 - mistack is not the end of the path.
+
+rania salem 
+[github link](https://github.com/raniasalem9998)
 
