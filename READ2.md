@@ -1,5 +1,3 @@
-# linux
-***
 
 ## Summurizing some notes about a terminal.
 
