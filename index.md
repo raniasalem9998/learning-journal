@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/raniasalem9998/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Growth Mindset
+ A growth mindset is the way how a ***succesfull*** mind work. :emojicode
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+there are some featchers of a growth mindset like:
 
 ```markdown
 Syntax highlighted code block
@@ -15,7 +11,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Growth mindset doesnt 
 - List
 
 1. Numbered
