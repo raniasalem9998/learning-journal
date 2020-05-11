@@ -10,19 +10,19 @@ your file can be in one of the three stages :
 > to check file status use **git status**
 #
 1- First is cloning: use the command **git clone URL** 
-1- Use **cd** and **ls** to move in the file.
-1- Type **code .** .
+- Use **cd** and **ls** to move in the file.
+- Type **code .** .
 > VS code will open for you to start your work!
 ***note that :***
  The local Git repository has three components:
 * Working Directory: The actual files reside here.
 * Index: The area used for staging.
 * Head: Points to the most recent commit.
-1- saving changes can be tracked or not.
-1- to track a file use **git add filename**.
-1- commiting a file and save it use **git commit m-(why?)
+- saving changes can be tracked or not.
+- to track a file use **git add filename**.
+- commiting a file and save it use **git commit m-(why?)
 > **git commit -a** is to save all changes.
 
-1- at the end you will push it and sync it with github by **git push origin master** 
-1- you can see remote using **git remot -v** also edit them.
-1- you can rename **git remot rename** or remove **git remot rm**.
+- at the end you will push it and sync it with github by **git push origin master** 
+- you can see remote using **git remot -v** also edit them.
+- you can rename **git remot rename** or remove **git remot rm**.
