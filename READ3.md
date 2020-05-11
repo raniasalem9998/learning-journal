@@ -19,7 +19,7 @@ your file can be in one of the three stages :
 * Working Directory: The actual files reside here.
 * Index: The area used for staging.
 * Head: Points to the most recent commit.
-**
+--
 - saving changes can be tracked or not.
 - to track a file use **git add filename**.
 - commiting a file and save it use **git commit m-(why?)
