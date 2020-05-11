@@ -7,7 +7,7 @@
 #
 | G-M  | READ1   | READ2   |READ3   | 
 | ---| --- | ---|---|
-|  [Growth mindset](https://raniasalem9998.github.io/learning-journal/) | [Github](https://raniasalem9998.github.io/learning-journal/READ1)       | [Terminal](https://raniasalem9998.github.io/learning-journal/READ2)     | [Git](https://raniasalem9998.github.io/learning-journal/READ3)       |
+|  [Growth mindset](https://raniasalem9998.github.io/learning-journal/G-M) | [Github](https://raniasalem9998.github.io/learning-journal/READ1)       | [Terminal](https://raniasalem9998.github.io/learning-journal/READ2)     | [Git](https://raniasalem9998.github.io/learning-journal/READ3)       |
 
 
 
