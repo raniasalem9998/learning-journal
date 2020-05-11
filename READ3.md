@@ -13,11 +13,13 @@ your file can be in one of the three stages :
 - Use **cd** and **ls** to move in the file.
 - Type **code .** .
 > VS code will open for you to start your work!
+**
 ***note that :***
  The local Git repository has three components:
 * Working Directory: The actual files reside here.
 * Index: The area used for staging.
 * Head: Points to the most recent commit.
+**
 - saving changes can be tracked or not.
 - to track a file use **git add filename**.
 - commiting a file and save it use **git commit m-(why?)
