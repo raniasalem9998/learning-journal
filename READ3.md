@@ -13,7 +13,7 @@ your file can be in one of the three stages :
 - Use **cd** and **ls** to move in the file.
 - Type **code .** .
 > VS code will open for you to start your work!
-**
+---
 ***note that :***
  The local Git repository has three components:
 * Working Directory: The actual files reside here.
