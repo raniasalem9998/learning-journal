@@ -8,8 +8,8 @@ your file can be in one of the three stages :
 * modified 
 * staged
 > to check file status use **git status**
-#
-1- First is cloning: use the command **git clone URL** 
+
+- First is cloning: use the command **git clone URL** 
 - Use **cd** and **ls** to move in the file.
 - Type **code .** .
 > VS code will open for you to start your work!
