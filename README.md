@@ -5,9 +5,9 @@
 #
 ## What you'll find:
 #
-| G-M  | READ1   | READ2   |READ3   | LAB3| READ4 | READ5| LAB3|
+| G-M  | READ1   | READ2   |READ3   | LAB3| READ4 | READ5| LAB4|
 | ---| --- | ---|---|---|---|---|---|
-|  [Growth mindset](https://raniasalem9998.github.io/learning-journal/G-M) | [Github](https://raniasalem9998.github.io/learning-journal/READ1)       | [Terminal](https://raniasalem9998.github.io/learning-journal/READ2)     | [Git](https://raniasalem9998.github.io/learning-journal/READ3)       | [checked](https://raniasalem9998.github.io/learning-journal/LAB3) |[READ4](https://raniasalem9998.github.io/learning-journal/read4.html)|[READ5](https://raniasalem9998.github.io/learning-journal/read5.html)|[LAB3](https://raniasalem9998.github.io/learning-journal/LAB3.html)|
+|  [Growth mindset](https://raniasalem9998.github.io/learning-journal/G-M) | [Github](https://raniasalem9998.github.io/learning-journal/READ1)       | [Terminal](https://raniasalem9998.github.io/learning-journal/READ2)     | [Git](https://raniasalem9998.github.io/learning-journal/READ3)       | [checked](https://raniasalem9998.github.io/learning-journal/LAB3) |[READ4](https://raniasalem9998.github.io/learning-journal/read4.html)|[READ5](https://raniasalem9998.github.io/learning-journal/read5.html)|[LAB4](https://raniasalem9998.github.io/learning-journal/LAB4.html)|
 
 
 
