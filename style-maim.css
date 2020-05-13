@@ -1,0 +1,11 @@
+body {
+background: url("/learning-journal/images/main-back.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;} 
+h1 {text-align: center;background-color: rgba(173, 166, 143, 0.623);}
+main {background-color: rgba(173, 166, 143, 0.5);}
+img {margin-left: 60px;}
