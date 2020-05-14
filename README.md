@@ -1,7 +1,7 @@
 
 # Rania salem 
 #
-20 years old, physics student and I would love to push my limits and learn about alien subjects to me.
+20 years old, physics student and i used to paint.I would love to push my limits and learn about alien subjects to me.
 #
 ## What you'll find:
 #
